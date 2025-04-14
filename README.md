@@ -17,8 +17,16 @@ link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_
 
 Link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Co%CC%81pia%20de%20Relatorio_Incendios_Regioes.xlsx?d=wb28e897073dc46beae47eb80f6570b9e&csf=1&web=1&e=j9Uf0h
 
-5º Atividade: Usando fórmula e dados abertos no Power BI 
+5º Atividade: Usando fórmula e dados no Power BI - Queimadas.
+
+Antes:
+
 ![image](https://github.com/user-attachments/assets/79d82fe8-21e5-4dc2-b869-24be999cec84)
+
+Depois:
+
+![image](https://github.com/user-attachments/assets/788d9596-63a2-4ace-9ec3-c442ad9740f4)
+
 
 Link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Co%CC%81pia%20de%20Relatorio_Incendios_Regioes.xlsx?d=wb28e897073dc46beae47eb80f6570b9e&csf=1&web=1&e=j9Uf0h
 
