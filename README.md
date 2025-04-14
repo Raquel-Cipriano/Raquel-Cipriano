@@ -8,6 +8,7 @@ link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_
 ![image](https://github.com/user-attachments/assets/93837de8-444e-4ec1-94a2-30b4d0be94f7)
 
 3º Atividade: Power BI:
+
 ![image](https://github.com/user-attachments/assets/e74c6182-d545-4257-a17a-552bb213abb1)
 
 4º Atividade: Usando fórmula e dados abertos - Queimadas. 
